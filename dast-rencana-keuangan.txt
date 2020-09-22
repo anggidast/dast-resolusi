@@ -1,5 +1,6 @@
 RENCANA KEUANGAN ANGGIDAST
 
 - dana darurat (minimal 4 kali pengeluaran bulanan)
+  * RDPU
 - dana pensiun
-- investasi pasar modal
+  * RDS
