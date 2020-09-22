@@ -5,3 +5,4 @@ RENCANA KEUANGAN ANGGIDAST
   * reksa dana saham
 - investasi pasar modal
   * jangka panjang
+  * jangka pendek (swing)
